@@ -7,7 +7,7 @@
 </p>
 
 ## 🌟 About
-This My first Android application! Written in <b>Kotlin</b> <br>
+This My first Android application! Written in <b>Kotlin.</b> <br> For '30 Days of Kotlin' organised by Google Devs India Event<br>
 This last 4 weeks have been amazing , starting from learning KOTLIN CODELABS to making an app :) 
 
 ## 🚀 Features
