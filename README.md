@@ -3,16 +3,25 @@
     <a>
     <img src="QR_COde.png" width="200" height="200"/>
     </a>
-    <h1 align="center">QR Code <br> (Reader & Scanner)</h1>
+    <h1 align="center">QR Code <br> (Generator & Scanner)</h1>
 </p>
 
-# QR_CODE_Genrator_and_Reader
-QR Code Reader App developed during '30 Days of Kotlin'  organised Google Devs India Event
+## 🌟 About
+This My first Android application! Written in ### Kotlin. <br>
+This last 4 weeks have been amazing , starting from learning KOTLIN CODELABS to making an app :) 
+
+## 🚀 Features
+	1. Genrate an QR code.
+	2. Save QR result for future use.
+	3. Share your QR Code to other app.
+	4. Copy as a plain text to use.
+	5. Scan Barcode and QR code using Camera
 
 <p align="center">
     <a>
-    <img src="output.gif"/>
+    <img src="Project.gif"/>
     </a>
+    <h2 align="center">Preview of App</h2>
 </p>
 
 
