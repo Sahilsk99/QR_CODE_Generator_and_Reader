@@ -20,7 +20,7 @@ This last 4 weeks have been amazing , starting from learning KOTLIN CODELABS to 
 </h5>
 
 ## 📃 Libraries used
-[ZXing][1]<br>
+[ZXing][1] <br>
 I have Used [ZXing][1] library for Scanning and Generating QR code with Android.
 
 
@@ -36,7 +36,6 @@ dependencies {
 }
 ```
 
-```
 You'll also need this in your Android manifest:
 
 ```xml
@@ -55,6 +54,8 @@ You'll also need this in your Android manifest:
 
 **Sahil Sheikh**
 iamsahilsk99@gmail.com
+
 [Download apk][2]
+
 [1]: https://github.com/zxing/zxing/
 [2]:https://drive.google.com/file/d/1MecJfpB5_ENMLMJIGBcSCdjk2R31fZG-/view?usp=sharing
