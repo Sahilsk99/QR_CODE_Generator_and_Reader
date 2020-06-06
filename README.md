@@ -11,7 +11,7 @@ QR Code Reader App developed during '30 Days of Kotlin'  organised Google Devs I
 
 <p align="center">
     <a>
-    <img src="output.gif" width="200" height="200"/>
+    <img src="output.gif"/>
     </a>
 </p>
 
